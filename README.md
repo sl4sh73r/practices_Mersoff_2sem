@@ -2,4 +2,4 @@
 все мои работы которые я делал на Языках программирования
 разрешается к просмотру, нежелательно к копированию) 
 ---
-![Привет]([https://c.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif](https://c.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif)) 
+![Привет](https://c.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif) 
